@@ -6,9 +6,9 @@
 - We will be doing the Bounding Box project, which is implementing a convolutional neural network model in Tensorflow that can determine the bounding box for set objects. We plan on first implementing a single object Bounding Box model and if time allows we plan on implementing a multi-object Bounding Box model.
 
 ### Current Progress: 
- - __Josie__: base network framework for bounding box coordinate prediction
- - __Karl__: plotting bounding boxes + reading about RCNN implementation
- - __Sidra__: dataset organization, research
+ - __Josie__: base network framework for bounding box coordinate prediction (josie branch)
+ - __Karl__: plotting bounding boxes + reading about RCNN implementation (Karl branch)
+ - __Sidra__: dataset organization, research (main branch)
 
 ### Research: 
 #### Josie:

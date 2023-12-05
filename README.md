@@ -8,7 +8,7 @@
 ### Current Progress: 
  - __Josie__: base network framework for bounding box coordinate prediction (josie branch)
  - __Karl__: plotting bounding boxes + reading about RCNN implementation (Karl branch)
- - __Sidra__: dataset organization, research (main branch)
+ - __Sidra__: dataset organization, testing and iterating over the approach locally, research (main branch)
 
 ### Research: 
 #### Josie:

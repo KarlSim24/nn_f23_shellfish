@@ -9,7 +9,7 @@ We did this assignment in Google Collab using Collab Pro, therefore it might be 
 ### Current Progress: 
  - __Josie__: base network framework for bounding box coordinate prediction (josie branch)
  - __Karl__: plotting bounding boxes + reading about RCNN implementation (Karl branch)
- - __Sidra__: dataset organization, testing and iterating over the approach locally, research (main branch)
+ - __Sidra__: dataset organization, optimizing the approach, research (main and sidra branch)
 
 ### Research: 
 #### Josie:

@@ -1,5 +1,6 @@
 # nn_f23_shellfish
-
+### Project Note
+We did this assignment in Google Collab using Collab Pro, therefore it might be difficult to run this locally without making changes to the files, however, we can get it to work properly in our collab environment and are happy to demo it to you if needed.
 ### Project Proposal
 - Team Members: Sidra Hussain, Josie Libbon, Karl Simon
 ### Project Overview: 
